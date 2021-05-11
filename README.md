@@ -13,11 +13,11 @@ Inferential statistics takes data from a sample and makes inferences about the l
 **Inferential vs Descriptive analysis**
 
 	Descriptive Statistics	vs Inferential Statistics
-1.	IS gives information about raw data which describes the data in some manner.	DS makes inference about population using data drawn from the population.
-2.	IS helps in organizing, analyzing and to present data in a meaningful manner.	DS allows us to compare data, make hypothesis and predictions.
-3.	IS is used to describe a situation.	DS is used to explain the chance of occurrence of an event.
-4.	IS explain already known data and limited to a sample or population having small size.	DS attempts to reach the conclusion about the population.
-5.	IS can be achieved with the help of charts, graphs, tables etc.	DS can be achieved by probability.
+1.	DS gives information about raw data which describes the data in some manner.	IS makes inference about population using data drawn from the population.
+2.	DS helps in organizing, analyzing and to present data in a meaningful manner.	IS allows us to compare data, make hypothesis and predictions.
+3.	DS is used to describe a situation.	IS is used to explain the chance of occurrence of an event.
+4.	DS explain already known data and limited to a sample or population having small size.	IS attempts to reach the conclusion about the population.
+5.	DS can be achieved with the help of charts, graphs, tables etc.	IS can be achieved by probability.
 
 
 https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/inferential-statistics/
