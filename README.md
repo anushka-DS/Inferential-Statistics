@@ -20,7 +20,19 @@ Inferential statistics takes data from a sample and makes inferences about the l
 5.	DS can be achieved with the help of charts, graphs, tables etc.	IS can be achieved by probability.
 
 
+Useful references :
+
+
 https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/inferential-statistics/
 https://statisticsbyjim.com/basics/descriptive-inferential-statistics/
 https://www.scribbr.com/statistics/inferential-statistics/
 https://www.cut-the-knot.org/Probability/SampleSpaces.shtml
+
+**Other types of distributions :**
+
+https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459
+https://www.math.umd.edu/~millson/teaching/STAT400fall18/slides/article8.pdf
+https://towardsdatascience.com/what-is-exponential-distribution-7bdd08590e2a
+https://onlinestatbook.com/2/chi_square/distribution.html
+https://www.sciencedirect.com/topics/mathematics/negative-binomial-distribution
+
