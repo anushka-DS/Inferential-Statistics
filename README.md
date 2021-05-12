@@ -20,7 +20,7 @@ Inferential statistics takes data from a sample and makes inferences about the l
 5.	DS can be achieved with the help of charts, graphs, tables etc.	IS can be achieved by probability.
 
 
-Useful references :
+## Useful references :
 
 
 https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/inferential-statistics/
