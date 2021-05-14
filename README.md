@@ -20,6 +20,13 @@ Inferential statistics takes data from a sample and makes inferences about the l
 5.	DS can be achieved with the help of charts, graphs, tables etc.	IS can be achieved by probability.
 
 
+**Types of Sampling**
+
+https://www.scribbr.com/methodology/sampling-methods/
+https://www.questionpro.com/blog/types-of-sampling-for-social-research/
+https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/methods-of-sampling-population
+
+
 ## Useful references :
 
 
